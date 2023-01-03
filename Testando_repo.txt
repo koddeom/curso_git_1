@@ -1,5 +1,6 @@
+------------------------------------------------------------------
 Inicicializando repositorio no github
-
+------------------------------------------------------------------
 echo "# curso_git_1" >> README.md
 git init
 git add README.md
